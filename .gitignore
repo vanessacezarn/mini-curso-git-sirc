@@ -1,0 +1,6 @@
+*.exe
+#alguma pasta
+*.pyc
+*.vscode
+
+*.txt
